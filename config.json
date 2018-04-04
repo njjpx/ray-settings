@@ -1,7 +1,7 @@
 {
   "log" : {
     "access": "",
-    "error": "/var/log/v2ray/error.log",
+    "error": "",
     "loglevel": "warning"
   },
   "inbound":
@@ -25,8 +25,8 @@
         "uplinkCapacity": 50,
         "downlinkCapacity": 200,
         "congestion": true,
-        "readBufferSize": 2,
-        "writeBufferSize": 2,
+        "readBufferSize": 4,
+        "writeBufferSize": 4,
         "header": {
           "type": "none"
         }
