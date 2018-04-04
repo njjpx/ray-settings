@@ -24,7 +24,7 @@
         "tti": 20,
         "uplinkCapacity": 50,
         "downlinkCapacity": 200,
-        "congestion": false,
+        "congestion": true,
         "readBufferSize": 2,
         "writeBufferSize": 2,
         "header": {
