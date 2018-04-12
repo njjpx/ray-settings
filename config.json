@@ -44,7 +44,7 @@
         "settings": {
           "method": "XXX",
           "password": "XXXXXXXX",
-          "udp": true
+          "network": "tcp"
         }
     }
   ],
